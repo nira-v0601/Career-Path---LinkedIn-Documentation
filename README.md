@@ -11,8 +11,9 @@ tracked through LinkedIn posts and organized here for reference.
 BE Information Technology | Gujarat Technological University (GTU)
 3rd Year (Pre-Final) | Ahmedabad, Gujarat, India
 
-📎 [LinkedIn Profile](paste-your-linkedin-profile-link-here)
-📁 [GitHub Profile](paste-your-github-profile-link-here)
+📎 [LinkedIn Profile](https://www.linkedin.com/in/nirav-panchal-3b2a6227b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3V90SD%2BS826jMcP8a0qrw%3D%3D)
+
+📁 [GitHub Profile](https://github.com/nira-v0601)
 
 ---
 
@@ -27,10 +28,6 @@ Driven by deep interest in:
 - Operating Systems
 - Automation
 
-The idea is to first master managing, designing, installing,
-maintaining and optimizing complex IT systems —
-and then evolve into automating those systems using
-DevOps tools and practices.
 
 ---
 
@@ -40,10 +37,6 @@ DevOps tools and practices.
 |-------|--------|--------|
 | 01 | Git / GitHub | 🔄 In Progress |
 | 02 | Linux | ⏳ Up Next |
-| 03 | Bash Scripting | ⏳ Upcoming |
-| 04 | Python | ⏳ Upcoming |
-| 05 | AWS | ⏳ Upcoming |
-| 06 | Docker | ⏳ Upcoming |
 
 ---
 
@@ -51,10 +44,10 @@ DevOps tools and practices.
 
 | Post | Topic | Learning Period | LinkedIn |
 |------|-------|----------------|---------|
-| [Post 001](posts/001-git-github-foundations.md) | Git/GitHub Foundations | 12 Apr – 27 Apr 2026 | [View](paste-link) |
-| [Post 002](posts/002-deep-dive-into-commits.md) | Deep Dive into Commits | 28 Apr – 06 May 2026 | [View](paste-link) |
-| [Post 003](posts/003-one-month-milestone.md) | 1 Month Milestone & Audit | 07 May – 12 May 2026 | [View](paste-link) |
-| [Post 004](posts/004-the-real-challenge.md) | The Real Challenge | (paste-date) | [View](paste-link) |
+| [Post 001](Post-1.md) | Git/GitHub Foundations | 12 Apr – 27 Apr 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-systems-versioncontrol-ugcPost-7454912900655202304-i3IU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 002](Post-2.md) | Deep Dive into Commits | 28 Apr – 06 May 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_gitgithub-git-github-share-7458115395422552065-c_ty/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 003](Post-3.md) | 1 Month Milestone & Audit | 07 May – 12 May 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-git-github-ugcPost-7460225996093476864-cwb-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 004](Post-4.md) | The Real Challenge | (paste-date) | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-systems-exampreparation-share-7463107778094653440-z3VF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 
 ---
 
@@ -66,11 +59,8 @@ DevOps tools and practices.
 ## Why This Repo?
 
 This repo is not just a link archive.
-It is a transparent, honest record of a learning journey —
+It is a transparent record of my learning journey —
 progress, struggles, insights, and growth —
 documented consistently over time.
-
-Every post here represents real learning, real reflection,
-and real effort. Nothing is fabricated or rushed.
 
 ---
