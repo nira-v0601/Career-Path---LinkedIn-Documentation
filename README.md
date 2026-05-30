@@ -5,11 +5,12 @@ tracked through LinkedIn posts and organized here for reference.
 
 ---
 
-## About Me
+## About Me:
 
 **Nirav Panchal**
-BE Information Technology | Gujarat Technological University (GTU)
-3rd Year (Pre-Final) | Ahmedabad, Gujarat, India
+
+BE-Information Technology | Gujarat Technological University (GTU)
+| 3rd Year (Pre-Final) | Ahmedabad, Gujarat, India
 
 📎 [LinkedIn Profile](https://www.linkedin.com/in/nirav-panchal-3b2a6227b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3V90SD%2BS826jMcP8a0qrw%3D%3D)
 
@@ -17,7 +18,7 @@ BE Information Technology | Gujarat Technological University (GTU)
 
 ---
 
-## Career Goal
+## Career Goal:
 
 **Entry Level:** Systems Engineer
 **Long Term:** DevOps Engineer
@@ -31,7 +32,7 @@ Driven by deep interest in:
 
 ---
 
-## Learning Roadmap
+## Learning Roadmap:
 
 | Stage | Module | Status |
 |-------|--------|--------|
@@ -40,7 +41,7 @@ Driven by deep interest in:
 
 ---
 
-## Post Documentation
+## Post Documentation:
 
 | Post | Topic | Learning Period | LinkedIn |
 |------|-------|----------------|---------|
@@ -52,12 +53,12 @@ Driven by deep interest in:
 
 ---
 
-## Preparation Started
+## Preparation Started:
 📅 12 April 2026
 
 ---
 
-## Why This Repo?
+## About this repo:
 
 This repo is not just a link archive.
 It is a transparent record of my learning journey —
