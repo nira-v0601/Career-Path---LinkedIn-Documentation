@@ -1,6 +1,6 @@
 # Post 004 - The Real Challenge
 
-**Date Posted:** 21-05-2026
+**Date Posted:** 21st May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-systems-exampreparation-share-7463107778094653440-z3VF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
 
 ---
@@ -15,9 +15,9 @@ exam preparation — reality turned out harder than expected.
 ## Honest Reflection
 
 **What Happened:**
-- Maintaining both exam prep and career prep simultaneously
+- Maintaining both exam preparation and career preparation simultaneously
   proved difficult
-- Mind suggested delaying career prep until exams conclude
+- Mind suggested delaying career preparation until exams conclude
 - Root cause identified: procrastination throughout the semester
   led to heavy last-minute exam load
 

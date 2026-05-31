@@ -1,6 +1,6 @@
 # Post 001 - Git/GitHub Foundations
 
-**Date Posted:** 28-04-2026
+**Date Posted:** 28th April 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-systems-versioncontrol-ugcPost-7454912900655202304-i3IU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
 
 ---
@@ -11,7 +11,7 @@ Started career preparation with a clear goal:
 
 Interests that led to this path:
 - Hardware-Software Integration
-- Computer Networking
+- Computer Networks
 - Operating Systems
 
 ---
@@ -21,7 +21,7 @@ Version control is fundamental for tracking code/infrastructure
 changes, enabling team collaboration, and ensuring system 
 stability through rollback capabilities.
 
-**Learning Period:** 12 April 2026 – 27 April 2026
+**Learning Period:** 12th April 2026 – 27th April 2026
 
 ---
 
@@ -29,7 +29,8 @@ stability through rollback capabilities.
 
 | Topic | Command/Tool |
 |-------|-------------|
-| Configuring Git | - |
+| Configuring Git user name | `git config --global user.name "Your Name"` |
+| Configuring Git user email | `git config --global user.email "Your email"` |
 | Exploring GitHub UI | - |
 | Creating repo & committing | - |
 | Cloning remote repo | `git clone <repo link>` |

@@ -1,11 +1,11 @@
 # Post 002 - Deep Dive into Commits
 
-**Date Posted:** 07-05-2026
+**Date Posted:** 07th May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_gitgithub-git-github-share-7458115395422552065-c_ty/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
 ---
 
 ## Learning Period
-28 April 2026 – 06 May 2026
+28th April 2026 – 06th May 2026
 
 ---
 
@@ -29,14 +29,17 @@ Used for undoing committed changes. Three modes:
 ---
 
 ### 2. git log --oneline
-````git log --oneline```
-Displays commit history with short commit hashes.
-Useful for quickly navigating through commit history.
+
+`git log --oneline`
+- Displays commit history with short commit hashes.
+- Useful for quickly navigating through commit history.
 
 ---
 
 ### 3. git commit --amend
-Used to edit the previous commit without creating a new one.
+
+`git commit --amend`
+- Used to edit the previous commit without creating a new one.
 - Can edit the commit message
 - Can add/modify files into the previous commit
 
@@ -46,7 +49,8 @@ Amend handles minor additions/corrections cleanly.
 ---
 
 ### 4. git cherry-pick
-```git cherry-pick <commit hash>```
+
+`git cherry-pick <commit hash>`
 Copies a specific commit from one branch to another.
 
 **Real world analogy:**

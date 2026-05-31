@@ -1,6 +1,6 @@
 # Post 005 - A Sudden Documenting Idea
 
-**Date Posted:** 27-05-2026
+**Date Posted:** 27th May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_github-nira-v0601career-path-linkedin-documentation-share-7465357706657390595-VZp0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
 
 ---

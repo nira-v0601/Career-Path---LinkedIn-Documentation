@@ -1,24 +1,28 @@
 # Post 003 - 1 Month of Career Preparation
 
-**Date Posted:** 13-05-2026
+**Date Posted:** 13th May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-git-github-ugcPost-7460225996093476864-cwb-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
 
 ---
 
 ## Milestone
 **1 Month of Consistent Career Preparation**
-12 April 2026 – 12 May 2026
+12th April 2026 – 12th May 2026
 
 ---
 
 ## New Progress (07 May – 12 May 2026)
 
 ### 1. git cherry-pick (Refined)
+
+`git cherry-pick <hash code>`
 Confusion from Post 002 is now cleared.
 Concept and working of the command is fully understood
 through dedicated practice.
 
 ### 2. git rebase -i (Interactive Rebase)
+
+`git rebase -i <hash code>`
 Allows making changes to previous commits.
 
 | Operation | What it Does |
