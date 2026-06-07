@@ -1,4 +1,4 @@
-# Post 002 - Deep Dive into Commits
+# Post 2 - Deep Dive into Commits
 
 **Date Posted:** 07th May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_gitgithub-git-github-share-7458115395422552065-c_ty/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)

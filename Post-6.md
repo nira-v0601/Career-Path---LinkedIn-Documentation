@@ -1,4 +1,4 @@
-# Post 006 - GitHub Student Developer Pack
+# Post 6 - GitHub Student Developer Pack
 
 **Date Posted:** 03th June 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_git-github-githubstudentdeveloperpack-ugcPost-7467823472631504897-xeie/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)

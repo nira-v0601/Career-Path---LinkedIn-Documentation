@@ -1,4 +1,4 @@
-# Post 003 - 1 Month of Career Preparation
+# Post 3 - 1 Month of Career Preparation
 
 **Date Posted:** 13th May 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-git-github-ugcPost-7460225996093476864-cwb-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)

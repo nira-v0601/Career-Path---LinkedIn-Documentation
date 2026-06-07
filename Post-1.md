@@ -1,4 +1,4 @@
-# Post 001 - Git/GitHub Foundations
+# Post 1 - Git/GitHub Foundations
 
 **Date Posted:** 28th April 2026
 **LinkedIn Post:** [View Post](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-systems-versioncontrol-ugcPost-7454912900655202304-i3IU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro)
