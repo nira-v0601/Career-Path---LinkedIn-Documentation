@@ -36,8 +36,8 @@ Driven by deep interest in:
 
 | Stage | Module | Status |
 |-------|--------|--------|
-| 01 | Git / GitHub | 🔄 In Progress |
-| 02 | Linux | ⏳ Up Next |
+| 01 | Git / GitHub | Completed ✅|
+| 02 | Linux | 🔄 In Progress  |
 
 ---
 
@@ -53,6 +53,7 @@ Driven by deep interest in:
 | [Post 6](Post-6.md) | GitHub Student Developer Pack | 27st May 2026 - 03th June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_git-github-githubstudentdeveloperpack-ugcPost-7467823472631504897-xeie/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 7](Post-7.md) | Path  Resumes! | 04th June 2026 - 11th June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_git-github-systemsengineer-share-7471083826916667393-962M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 8](Post-8.md) | The differences | 12th June 2026 - 19th June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-versioncontrol-git-share-7474062192686891008--fGn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 9](Post-9.md) | Concluding Git/GitHub | 20th June 2026 - 22nd June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_systemsengineer-devops-engineer-ugcPost-7475164785622327297-cSAN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 
 ---
 
