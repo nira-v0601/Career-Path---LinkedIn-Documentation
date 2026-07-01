@@ -54,6 +54,7 @@ Driven by deep interest in:
 | [Post 7](Post-7.md) | Path  Resumes! | 04th June 2026 - 11th June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_git-github-systemsengineer-share-7471083826916667393-962M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 8](Post-8.md) | The differences | 12th June 2026 - 19th June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_devops-versioncontrol-git-share-7474062192686891008--fGn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 9](Post-9.md) | Concluding Git/GitHub | 20th June 2026 - 22nd June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_systemsengineer-devops-engineer-ugcPost-7475164785622327297-cSAN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 10](Post-10.md) | BE final phase!| 1st July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_finalyear-engineering-collegelife-share-7477966617503604736-HS-S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 
 ---
 
