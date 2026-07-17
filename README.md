@@ -56,6 +56,13 @@ Driven by deep interest in:
 | [Post 9](Post-009.md) | Concluding Git/GitHub | 20th June 2026 - 22nd June 2026 | [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_systemsengineer-devops-engineer-ugcPost-7475164785622327297-cSAN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 10](Post-010.md) | BE final phase!| 1st July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_finalyear-engineering-collegelife-share-7477966617503604736-HS-S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 11](Post-011.md) | SBT 2026 | 2nd July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_sbt-confirmation-letter-ugcPost-7478317962911813632-Pzjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 12](Post-012.md) | OS battle! | 6th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_linux-ubuntu-dualboot-share-7480524663907930112-AyV3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+| [Post 13](Post-013.md) | Linux timeline begins | 16th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_github-niravp-06learning-linux-module-share-7483433912254525441-vNNo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
+
+
+
+
+
 ---
 
 ## Preparation Started:
