@@ -58,8 +58,7 @@ Driven by deep interest in:
 | [Post 11](Post-011.md) | SBT 2026 | 2nd July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_sbt-confirmation-letter-ugcPost-7478317962911813632-Pzjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 12](Post-012.md) | OS battle! | 6th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_linux-ubuntu-dualboot-share-7480524663907930112-AyV3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 13](Post-013.md) | Linux timeline begins | 16th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_github-niravp-06learning-linux-module-share-7483433912254525441-vNNo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
-
-
+| [Post 14](Post-014.md) | GTU SBT Completion | 20th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_sbt-skilledbasedtraining-gtu-ugcPost-7484489303633379329-EidD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 
 
 
