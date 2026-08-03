@@ -60,7 +60,7 @@ Driven by deep interest in:
 | [Post 13](Post-013.md) | Linux timeline begins | 16th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_github-niravp-06learning-linux-module-share-7483433912254525441-vNNo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 14](Post-014.md) | GTU SBT Completion | 20th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_sbt-skilledbasedtraining-gtu-ugcPost-7484489303633379329-EidD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 15](Post-015.md) | Exploring files and directories | 13th July 2026 - 25th July| [View](https://www.linkedin.com/feed/update/urn:li:activity:7487351074140422144/) |
-
+| [Post 16](Post-016.md) | Exploring permissions | 26th July 2026 - 3rd August 2026| [View](https://www.linkedin.com/feed/update/urn:li:activity:7490001891922321410/) |
 
 
 ---
