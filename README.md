@@ -61,6 +61,8 @@ Driven by deep interest in:
 | [Post 14](Post-014.md) | GTU SBT Completion | 20th July 2026| [View](https://www.linkedin.com/posts/nirav-panchal-3b2a6227b_sbt-skilledbasedtraining-gtu-ugcPost-7484489303633379329-EidD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERSXbYBBh-aUjGvgdyr18lXWWLdgA7EHro) |
 | [Post 15](Post-015.md) | Exploring files and directories | 13th July 2026 - 25th July| [View](https://www.linkedin.com/feed/update/urn:li:activity:7487351074140422144/) |
 | [Post 16](Post-016.md) | Exploring permissions | 26th July 2026 - 3rd August 2026| [View](https://www.linkedin.com/feed/update/urn:li:activity:7490001891922321410/) |
+| [Post 17](Post-017.md) | A set of Instruction | 4th August 2026 - 12th August 2026| [View](https://lnkd.in/p/d2_zaw-H) |
+
 
 
 ---
