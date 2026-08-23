@@ -62,7 +62,7 @@ Driven by deep interest in:
 | [Post 15](Post-015.md) | Exploring files and directories | 13th July 2026 - 25th July| [View](https://www.linkedin.com/feed/update/urn:li:activity:7487351074140422144/) |
 | [Post 16](Post-016.md) | Exploring permissions | 26th July 2026 - 3rd August 2026| [View](https://www.linkedin.com/feed/update/urn:li:activity:7490001891922321410/) |
 | [Post 17](Post-017.md) | A set of Instruction | 4th August 2026 - 12th August 2026| [View](https://lnkd.in/p/d2_zaw-H) |
-
+| [Post 18](Post-018.md) | Programs → Input/Output | 13th August 2026 - 23rd August 2026| [View](https://lnkd.in/p/dEqEMvtG) |
 
 
 ---
