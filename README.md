@@ -64,6 +64,7 @@ Driven by deep interest in:
 | [Post 17](Post-017.md) | A set of Instruction | 4th August 2026 - 12th August 2026| [View](https://lnkd.in/p/d2_zaw-H) |
 | [Post 18](Post-018.md) | Programs → Input/Output | 13th August 2026 - 23rd August 2026| [View](https://lnkd.in/p/dEqEMvtG) |
 | [Post 19](Post-019.md) | 1st Linux Course Completion | 24th August 2026 - 29th August 2026| [View](https://lnkd.in/p/dTfK74i6) |
+| [Post 20](Post-020.md) | 2nd Linux Course Begins | 1st September 2026 - 5th September 2026| [View](https://lnkd.in/p/dnwESQtW) |
 
 
 ---
